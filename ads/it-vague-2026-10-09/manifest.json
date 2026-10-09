@@ -1,0 +1,377 @@
+{
+  "wave": "it-vague-2026-10-09",
+  "market": "IT",
+  "brand": "Nanne Dolci",
+  "persona": "Chiara | Nanne Dolci",
+  "destination_base": "https://www.nannedolci.it/quizz",
+  "ads": [
+    {
+      "name": "TRANSFO-SO-EU28-CAR-10ORE-IT-v2",
+      "format": "CAR",
+      "files": [
+        "TRANSFO-SO-EU28-CAR-10ORE-IT-v2-01.jpg",
+        "TRANSFO-SO-EU28-CAR-10ORE-IT-v2-02.jpg",
+        "TRANSFO-SO-EU28-CAR-10ORE-IT-v2-03.jpg",
+        "TRANSFO-SO-EU28-CAR-10ORE-IT-v2-04.jpg",
+        "TRANSFO-SO-EU28-CAR-10ORE-IT-v2-05.jpg"
+      ],
+      "cdn": [
+        "https://cdn.jsdelivr.net/gh/userfrensh33-afk/nannedolci-assets@master/ads/it-vague-2026-10-09/TRANSFO-SO-EU28-CAR-10ORE-IT-v2-01.jpg",
+        "https://cdn.jsdelivr.net/gh/userfrensh33-afk/nannedolci-assets@master/ads/it-vague-2026-10-09/TRANSFO-SO-EU28-CAR-10ORE-IT-v2-02.jpg",
+        "https://cdn.jsdelivr.net/gh/userfrensh33-afk/nannedolci-assets@master/ads/it-vague-2026-10-09/TRANSFO-SO-EU28-CAR-10ORE-IT-v2-03.jpg",
+        "https://cdn.jsdelivr.net/gh/userfrensh33-afk/nannedolci-assets@master/ads/it-vague-2026-10-09/TRANSFO-SO-EU28-CAR-10ORE-IT-v2-04.jpg",
+        "https://cdn.jsdelivr.net/gh/userfrensh33-afk/nannedolci-assets@master/ads/it-vague-2026-10-09/TRANSFO-SO-EU28-CAR-10ORE-IT-v2-05.jpg"
+      ],
+      "cards": [
+        {
+          "top": "Si svegliava alle 23, all'1, alle 3 e alle 5. Oggi dorme più di 10 ore di fila.",
+          "bottom": "A cambiare non è stato il bambino."
+        },
+        {
+          "top": "Abbiamo dato la colpa alla fame. Poi ai dentini.",
+          "bottom": "Non era né l'una né gli altri."
+        },
+        {
+          "top": "I risvegli notturni hanno 4 vere cause.",
+          "bottom": "Curare quella sbagliata non regge più di 2 notti."
+        },
+        {
+          "top": "Settima notte: più di 10 ore di fila.",
+          "bottom": "Senza mai lasciarlo piangere."
+        },
+        {
+          "top": "2 minuti per capire cosa lo sveglia davvero.",
+          "bottom": "Il test è gratuito."
+        }
+      ],
+      "primary_text": "Da risvegli ogni 2 ore a più di 10 ore di fila nel suo lettino. A cambiare non è stato il bambino.\n\nPer mesi ho dato la colpa alla fame. Poi ai dentini. Poi al caldo, alla luce, ai rumori del palazzo. Non era niente di tutto questo.\n\nI risvegli notturni hanno 4 vere cause. Finché si lavora su quella sbagliata, nessun miglioramento regge più di due notti. È per questo che i consigli presi qua e là duravano un weekend.\n\nUna volta capita la causa, l'abbiamo corretta con dolcezza, un piccolo passo a notte. Senza mai lasciarlo piangere, senza porta chiusa.\n\nSettima notte: più di 10 ore di fila. E io ho ricominciato a dormire.\n\n14 notti con la scheda di monitoraggio. Se non cambia nulla, rimborso entro 30 giorni.\n\nIl test è gratuito e dura 2 minuti: dice cosa lo sveglia davvero e da dove iniziare stasera 👇\nhttps://www.nannedolci.it/quizz?utm_source=meta&utm_campaign=it-test-creas&utm_content=TRANSFO-SO-EU28-CAR-10ORE-IT-v2",
+      "headline": "Perché si sveglia ogni 2 ore?",
+      "description": "Test gratuito di 2 minuti",
+      "link": "https://www.nannedolci.it/quizz?utm_source=meta&utm_campaign=it-test-creas&utm_content=TRANSFO-SO-EU28-CAR-10ORE-IT-v2",
+      "cta": "Scopri di più",
+      "source_winner": "TRANSFO-SO-EU28-CARD-10ORE-IT-v1"
+    },
+    {
+      "name": "TRANSFO-SO-EU28-CAR-10ORE-IT-v3",
+      "format": "CAR",
+      "files": [
+        "TRANSFO-SO-EU28-CAR-10ORE-IT-v3-01.jpg",
+        "TRANSFO-SO-EU28-CAR-10ORE-IT-v3-02.jpg",
+        "TRANSFO-SO-EU28-CAR-10ORE-IT-v3-03.jpg",
+        "TRANSFO-SO-EU28-CAR-10ORE-IT-v3-04.jpg",
+        "TRANSFO-SO-EU28-CAR-10ORE-IT-v3-05.jpg"
+      ],
+      "cdn": [
+        "https://cdn.jsdelivr.net/gh/userfrensh33-afk/nannedolci-assets@master/ads/it-vague-2026-10-09/TRANSFO-SO-EU28-CAR-10ORE-IT-v3-01.jpg",
+        "https://cdn.jsdelivr.net/gh/userfrensh33-afk/nannedolci-assets@master/ads/it-vague-2026-10-09/TRANSFO-SO-EU28-CAR-10ORE-IT-v3-02.jpg",
+        "https://cdn.jsdelivr.net/gh/userfrensh33-afk/nannedolci-assets@master/ads/it-vague-2026-10-09/TRANSFO-SO-EU28-CAR-10ORE-IT-v3-03.jpg",
+        "https://cdn.jsdelivr.net/gh/userfrensh33-afk/nannedolci-assets@master/ads/it-vague-2026-10-09/TRANSFO-SO-EU28-CAR-10ORE-IT-v3-04.jpg",
+        "https://cdn.jsdelivr.net/gh/userfrensh33-afk/nannedolci-assets@master/ads/it-vague-2026-10-09/TRANSFO-SO-EU28-CAR-10ORE-IT-v3-05.jpg"
+      ],
+      "cards": [
+        {
+          "top": "Da risvegli ogni 2 ore a più di 10 ore di fila.",
+          "bottom": "A cambiare non è stato il bambino."
+        },
+        {
+          "top": "Abbiamo dato la colpa alla fame. Poi ai dentini.",
+          "bottom": "Non era né l'una né gli altri."
+        },
+        {
+          "top": "I risvegli notturni hanno 4 vere cause.",
+          "bottom": "Curare quella sbagliata non regge più di 2 notti."
+        },
+        {
+          "top": "Settima notte: più di 10 ore di fila.",
+          "bottom": "Senza mai lasciarlo piangere."
+        },
+        {
+          "top": "2 minuti per capire cosa lo sveglia davvero.",
+          "bottom": "Il test è gratuito."
+        }
+      ],
+      "primary_text": "Mi chiamo Martina, ho 31 anni, e Leo ha 7 mesi. Fino a tre settimane fa si svegliava ogni 2 ore. Oggi dorme più di 10 ore di fila nel suo lettino.\n\nNon è cambiato lui. Sono cambiata io, in quello che facevo la sera.\n\nPer mesi ho dato la colpa alla fame, poi ai dentini, poi al caldo. Mia suocera diceva « ha preso il vizio ». La pediatra diceva « passerà ». Nessuno mi aveva spiegato che i risvegli notturni hanno 4 vere cause, e che finché si lavora su quella sbagliata nessun miglioramento regge più di due notti.\n\nQuando ho capito qual era la sua, l'abbiamo corretta con dolcezza, un piccolo passo a notte. Senza mai lasciarlo piangere, senza porta chiusa.\n\nSettima notte: dalle 20:30 alle 7. Ho controllato tre volte che respirasse.\n\n14 notti con la scheda di monitoraggio. Se non cambia nulla, rimborso entro 30 giorni.\n\nIl test è gratuito e dura 2 minuti: dice cosa sveglia davvero un bambino e da dove iniziare stasera 👇\nhttps://www.nannedolci.it/quizz?utm_source=meta&utm_campaign=it-test-creas&utm_content=TRANSFO-SO-EU28-CAR-10ORE-IT-v3",
+      "headline": "Perché si sveglia ogni 2 ore?",
+      "description": "Test gratuito di 2 minuti",
+      "link": "https://www.nannedolci.it/quizz?utm_source=meta&utm_campaign=it-test-creas&utm_content=TRANSFO-SO-EU28-CAR-10ORE-IT-v3",
+      "cta": "Scopri di più",
+      "source_winner": "TRANSFO-SO-EU28-CARD-10ORE-IT-v1"
+    },
+    {
+      "name": "TRANSFO-SO-EU28-CAR-10ORE-IT-v4",
+      "format": "CAR",
+      "files": [
+        "TRANSFO-SO-EU28-CAR-10ORE-IT-v4-01.jpg",
+        "TRANSFO-SO-EU28-CAR-10ORE-IT-v4-02.jpg",
+        "TRANSFO-SO-EU28-CAR-10ORE-IT-v4-03.jpg",
+        "TRANSFO-SO-EU28-CAR-10ORE-IT-v4-04.jpg",
+        "TRANSFO-SO-EU28-CAR-10ORE-IT-v4-05.jpg"
+      ],
+      "cdn": [
+        "https://cdn.jsdelivr.net/gh/userfrensh33-afk/nannedolci-assets@master/ads/it-vague-2026-10-09/TRANSFO-SO-EU28-CAR-10ORE-IT-v4-01.jpg",
+        "https://cdn.jsdelivr.net/gh/userfrensh33-afk/nannedolci-assets@master/ads/it-vague-2026-10-09/TRANSFO-SO-EU28-CAR-10ORE-IT-v4-02.jpg",
+        "https://cdn.jsdelivr.net/gh/userfrensh33-afk/nannedolci-assets@master/ads/it-vague-2026-10-09/TRANSFO-SO-EU28-CAR-10ORE-IT-v4-03.jpg",
+        "https://cdn.jsdelivr.net/gh/userfrensh33-afk/nannedolci-assets@master/ads/it-vague-2026-10-09/TRANSFO-SO-EU28-CAR-10ORE-IT-v4-04.jpg",
+        "https://cdn.jsdelivr.net/gh/userfrensh33-afk/nannedolci-assets@master/ads/it-vague-2026-10-09/TRANSFO-SO-EU28-CAR-10ORE-IT-v4-05.jpg"
+      ],
+      "cards": [
+        {
+          "top": "Da risvegli ogni 2 ore a più di 10 ore di fila.",
+          "bottom": "A cambiare non è stato il bambino."
+        },
+        {
+          "top": "Abbiamo dato la colpa alla fame. Poi ai dentini.",
+          "bottom": "Non era né l'una né gli altri."
+        },
+        {
+          "top": "I risvegli notturni hanno 4 vere cause.",
+          "bottom": "Curare quella sbagliata non regge più di 2 notti."
+        },
+        {
+          "top": "Settima notte: dalle 20:30 alle 7 del mattino.",
+          "bottom": "Senza mai lasciarlo piangere."
+        },
+        {
+          "top": "2 minuti per capire cosa lo sveglia davvero.",
+          "bottom": "Il test è gratuito."
+        }
+      ],
+      "primary_text": "Da risvegli ogni 2 ore a più di 10 ore di fila nel suo lettino. A cambiare non è stato il bambino.\n\nPer mesi ho dato la colpa alla fame. Poi ai dentini. Poi al caldo, alla luce, ai rumori del palazzo. Non era niente di tutto questo.\n\nI risvegli notturni hanno 4 vere cause. Finché si lavora su quella sbagliata, nessun miglioramento regge più di due notti. È per questo che i consigli presi qua e là duravano un weekend.\n\nUna volta capita la causa, l'abbiamo corretta con dolcezza, un piccolo passo a notte. Senza mai lasciarlo piangere, senza porta chiusa.\n\nSettima notte: più di 10 ore di fila. E io ho ricominciato a dormire.\n\n14 notti con la scheda di monitoraggio. Se non cambia nulla, rimborso entro 30 giorni.\n\nIl test è gratuito e dura 2 minuti: dice cosa lo sveglia davvero e da dove iniziare stasera 👇\nhttps://www.nannedolci.it/quizz?utm_source=meta&utm_campaign=it-test-creas&utm_content=TRANSFO-SO-EU28-CAR-10ORE-IT-v4",
+      "headline": "Perché si sveglia ogni 2 ore?",
+      "description": "Test gratuito di 2 minuti",
+      "link": "https://www.nannedolci.it/quizz?utm_source=meta&utm_campaign=it-test-creas&utm_content=TRANSFO-SO-EU28-CAR-10ORE-IT-v4",
+      "cta": "Scopri di più",
+      "source_winner": "TRANSFO-SO-EU28-CARD-10ORE-IT-v1"
+    },
+    {
+      "name": "CONFESSION-SO-POITRINE-CAR-CAUSE-IT-v2",
+      "format": "CAR",
+      "files": [
+        "CONFESSION-SO-POITRINE-CAR-CAUSE-IT-v2-01.jpg",
+        "CONFESSION-SO-POITRINE-CAR-CAUSE-IT-v2-02.jpg",
+        "CONFESSION-SO-POITRINE-CAR-CAUSE-IT-v2-03.jpg",
+        "CONFESSION-SO-POITRINE-CAR-CAUSE-IT-v2-04.jpg",
+        "CONFESSION-SO-POITRINE-CAR-CAUSE-IT-v2-05.jpg"
+      ],
+      "cdn": [
+        "https://cdn.jsdelivr.net/gh/userfrensh33-afk/nannedolci-assets@master/ads/it-vague-2026-10-09/CONFESSION-SO-POITRINE-CAR-CAUSE-IT-v2-01.jpg",
+        "https://cdn.jsdelivr.net/gh/userfrensh33-afk/nannedolci-assets@master/ads/it-vague-2026-10-09/CONFESSION-SO-POITRINE-CAR-CAUSE-IT-v2-02.jpg",
+        "https://cdn.jsdelivr.net/gh/userfrensh33-afk/nannedolci-assets@master/ads/it-vague-2026-10-09/CONFESSION-SO-POITRINE-CAR-CAUSE-IT-v2-03.jpg",
+        "https://cdn.jsdelivr.net/gh/userfrensh33-afk/nannedolci-assets@master/ads/it-vague-2026-10-09/CONFESSION-SO-POITRINE-CAR-CAUSE-IT-v2-04.jpg",
+        "https://cdn.jsdelivr.net/gh/userfrensh33-afk/nannedolci-assets@master/ads/it-vague-2026-10-09/CONFESSION-SO-POITRINE-CAR-CAUSE-IT-v2-05.jpg"
+      ],
+      "cards": [
+        {
+          "top": "Ciuccio, pappa della sera, rumore bianco. Abbiamo provato di tutto per le sue notti.",
+          "bottom": "Finché non abbiamo capito questo."
+        },
+        {
+          "top": "22:30. 1:00. 3:20. 5:00. Ogni notte era un inferno.",
+          "bottom": "Avevo finito per credere di essere una cattiva madre."
+        },
+        {
+          "top": "Non era colpa mia. E nemmeno sua.",
+          "bottom": "Nessuno ci aveva detto cosa lo svegliava davvero."
+        },
+        {
+          "top": "Una volta capita la causa, l'abbiamo corretta con dolcezza.",
+          "bottom": "Senza mai lasciarlo piangere."
+        },
+        {
+          "top": "Ho capito finalmente cosa svegliava il MIO bambino.",
+          "bottom": "Test gratuito di 2 minuti."
+        }
+      ],
+      "primary_text": "L'osteopata. L'omeopatia. Il rumore bianco. Per otto mesi abbiamo provato di tutto per le sue notti.\n\nSi svegliava alle 22:30, all'1, alle 3:20, alle 5. Ogni notte. Avevo finito per credere di essere una cattiva madre.\n\nNon era colpa mia. E nemmeno sua. Nessuno ci aveva mai detto cosa lo svegliava davvero.\n\nIl giorno in cui l'abbiamo capito, abbiamo smesso di provare cose a caso. Abbiamo corretto quella causa, con dolcezza, un passo a notte. Senza mai lasciarlo piangere.\n\nPrima settimana: risvegli dimezzati. Oggi dorme nel suo lettino, e io ho smesso di avere paura della notte.\n\n14 notti con la scheda di monitoraggio. Se non cambia nulla, rimborso entro 30 giorni.\n\nIl test è gratuito e dura 2 minuti: mostra cosa sveglia davvero un bambino e da dove iniziare 👇\nhttps://www.nannedolci.it/quizz?utm_source=meta&utm_campaign=it-test-creas&utm_content=CONFESSION-SO-POITRINE-CAR-CAUSE-IT-v2",
+      "headline": "Non era colpa mia. E nemmeno sua.",
+      "description": "Test gratuito di 2 minuti",
+      "link": "https://www.nannedolci.it/quizz?utm_source=meta&utm_campaign=it-test-creas&utm_content=CONFESSION-SO-POITRINE-CAR-CAUSE-IT-v2",
+      "cta": "Scopri di più",
+      "source_winner": "CONFESSION-SO-POITRINE-CARD-CAUSE-IT-v1"
+    },
+    {
+      "name": "CONFESSION-SO-POITRINE-CAR-CAUSE-IT-v3",
+      "format": "CAR",
+      "files": [
+        "CONFESSION-SO-POITRINE-CAR-CAUSE-IT-v3-01.jpg",
+        "CONFESSION-SO-POITRINE-CAR-CAUSE-IT-v3-02.jpg",
+        "CONFESSION-SO-POITRINE-CAR-CAUSE-IT-v3-03.jpg",
+        "CONFESSION-SO-POITRINE-CAR-CAUSE-IT-v3-04.jpg",
+        "CONFESSION-SO-POITRINE-CAR-CAUSE-IT-v3-05.jpg"
+      ],
+      "cdn": [
+        "https://cdn.jsdelivr.net/gh/userfrensh33-afk/nannedolci-assets@master/ads/it-vague-2026-10-09/CONFESSION-SO-POITRINE-CAR-CAUSE-IT-v3-01.jpg",
+        "https://cdn.jsdelivr.net/gh/userfrensh33-afk/nannedolci-assets@master/ads/it-vague-2026-10-09/CONFESSION-SO-POITRINE-CAR-CAUSE-IT-v3-02.jpg",
+        "https://cdn.jsdelivr.net/gh/userfrensh33-afk/nannedolci-assets@master/ads/it-vague-2026-10-09/CONFESSION-SO-POITRINE-CAR-CAUSE-IT-v3-03.jpg",
+        "https://cdn.jsdelivr.net/gh/userfrensh33-afk/nannedolci-assets@master/ads/it-vague-2026-10-09/CONFESSION-SO-POITRINE-CAR-CAUSE-IT-v3-04.jpg",
+        "https://cdn.jsdelivr.net/gh/userfrensh33-afk/nannedolci-assets@master/ads/it-vague-2026-10-09/CONFESSION-SO-POITRINE-CAR-CAUSE-IT-v3-05.jpg"
+      ],
+      "cards": [
+        {
+          "top": "L'osteopata. L'omeopatia. Il rumore bianco. Abbiamo provato di tutto per le sue notti.",
+          "bottom": "Finché non abbiamo capito questo."
+        },
+        {
+          "top": "22:30. 1:00. 3:20. 5:00. Ogni notte era un inferno.",
+          "bottom": "Avevo finito per credere di essere una cattiva madre."
+        },
+        {
+          "top": "Non era colpa mia. E nemmeno sua.",
+          "bottom": "Nessuno ci aveva detto cosa lo svegliava davvero."
+        },
+        {
+          "top": "Una volta capita la causa, l'abbiamo corretta con dolcezza.",
+          "bottom": "Senza mai lasciarlo piangere."
+        },
+        {
+          "top": "Ho capito finalmente cosa svegliava il MIO bambino.",
+          "bottom": "Test gratuito di 2 minuti."
+        }
+      ],
+      "primary_text": "L'osteopata. L'omeopatia. Il rumore bianco. Per otto mesi abbiamo provato di tutto per le sue notti.\n\nSi svegliava alle 22:30, all'1, alle 3:20, alle 5. Ogni notte. Avevo finito per credere di essere una cattiva madre.\n\nNon era colpa mia. E nemmeno sua. Nessuno ci aveva mai detto cosa lo svegliava davvero.\n\nIl giorno in cui l'abbiamo capito, abbiamo smesso di provare cose a caso. Abbiamo corretto quella causa, con dolcezza, un passo a notte. Senza mai lasciarlo piangere.\n\nPrima settimana: risvegli dimezzati. Oggi dorme nel suo lettino, e io ho smesso di avere paura della notte.\n\n14 notti con la scheda di monitoraggio. Se non cambia nulla, rimborso entro 30 giorni.\n\nIl test è gratuito e dura 2 minuti: mostra cosa sveglia davvero un bambino e da dove iniziare 👇\nhttps://www.nannedolci.it/quizz?utm_source=meta&utm_campaign=it-test-creas&utm_content=CONFESSION-SO-POITRINE-CAR-CAUSE-IT-v3",
+      "headline": "Non era colpa mia. E nemmeno sua.",
+      "description": "Test gratuito di 2 minuti",
+      "link": "https://www.nannedolci.it/quizz?utm_source=meta&utm_campaign=it-test-creas&utm_content=CONFESSION-SO-POITRINE-CAR-CAUSE-IT-v3",
+      "cta": "Scopri di più",
+      "source_winner": "CONFESSION-SO-POITRINE-CARD-CAUSE-IT-v1"
+    },
+    {
+      "name": "MOMENT-SO-EU28-CAR-ORARIO-IT-v1",
+      "format": "CAR",
+      "files": [
+        "MOMENT-SO-EU28-CAR-ORARIO-IT-v1-01.jpg",
+        "MOMENT-SO-EU28-CAR-ORARIO-IT-v1-02.jpg",
+        "MOMENT-SO-EU28-CAR-ORARIO-IT-v1-03.jpg",
+        "MOMENT-SO-EU28-CAR-ORARIO-IT-v1-04.jpg",
+        "MOMENT-SO-EU28-CAR-ORARIO-IT-v1-05.jpg"
+      ],
+      "cdn": [
+        "https://cdn.jsdelivr.net/gh/userfrensh33-afk/nannedolci-assets@master/ads/it-vague-2026-10-09/MOMENT-SO-EU28-CAR-ORARIO-IT-v1-01.jpg",
+        "https://cdn.jsdelivr.net/gh/userfrensh33-afk/nannedolci-assets@master/ads/it-vague-2026-10-09/MOMENT-SO-EU28-CAR-ORARIO-IT-v1-02.jpg",
+        "https://cdn.jsdelivr.net/gh/userfrensh33-afk/nannedolci-assets@master/ads/it-vague-2026-10-09/MOMENT-SO-EU28-CAR-ORARIO-IT-v1-03.jpg",
+        "https://cdn.jsdelivr.net/gh/userfrensh33-afk/nannedolci-assets@master/ads/it-vague-2026-10-09/MOMENT-SO-EU28-CAR-ORARIO-IT-v1-04.jpg",
+        "https://cdn.jsdelivr.net/gh/userfrensh33-afk/nannedolci-assets@master/ads/it-vague-2026-10-09/MOMENT-SO-EU28-CAR-ORARIO-IT-v1-05.jpg"
+      ],
+      "cards": [
+        {
+          "top": "Le 4 e mezza. È sempre a quell'ora che la notte si spezza.",
+          "bottom": "Mai prima."
+        },
+        {
+          "top": "Pensavo fosse il suo ritmo. Che sarebbe passato da solo.",
+          "bottom": "Non passava."
+        },
+        {
+          "top": "A fine notte il sonno è al punto più leggero.",
+          "bottom": "Quello che si è installato alla nanna della sera riaffiora lì."
+        },
+        {
+          "top": "Quello che succede alle 20 decide cosa succede alle 4 e mezza.",
+          "bottom": "Quinta notte: ha dormito fino al mattino."
+        },
+        {
+          "top": "2 minuti per capire cosa lo sveglia alle 4 e mezza.",
+          "bottom": "Il test è gratuito."
+        }
+      ],
+      "primary_text": "Le 4 e mezza. È sempre a quell'ora che la notte si spezza.\n\nLa sera si addormenta bene, regge fino a metà notte, e dalle 4 e mezza in poi si riaddormenta solo addosso a me.\n\nPensavo fosse il suo ritmo. Che sarebbe passato con l'età.\n\nIn realtà la fine della notte è il momento in cui il sonno è più leggero. È lì che riaffiora tutto quello che si è installato alla nanna della sera.\n\nQuello che succede alle 20 decide cosa succede alle 4 e mezza. Nessuno me l'aveva detto.\n\nDa noi, dalla quinta notte ha dormito fino al mattino. Senza mai lasciarlo piangere.\n\n14 notti con la scheda di monitoraggio. Se non cambia nulla, rimborso entro 30 giorni.\n\nIl test è gratuito e dura 2 minuti 👇\nhttps://www.nannedolci.it/quizz?utm_source=meta&utm_campaign=it-test-creas&utm_content=MOMENT-SO-EU28-CAR-ORARIO-IT-v1",
+      "headline": "Il risveglio delle 4 e mezza non è un caso",
+      "description": "Test gratuito di 2 minuti",
+      "link": "https://www.nannedolci.it/quizz?utm_source=meta&utm_campaign=it-test-creas&utm_content=MOMENT-SO-EU28-CAR-ORARIO-IT-v1",
+      "cta": "Scopri di più",
+      "source_winner": "CARR-C03-HEURE-4H30 (FR)"
+    },
+    {
+      "name": "MOMENT-SO-EU28-CAR-ETA-IT-v1",
+      "format": "CAR",
+      "files": [
+        "MOMENT-SO-EU28-CAR-ETA-IT-v1-01.jpg",
+        "MOMENT-SO-EU28-CAR-ETA-IT-v1-02.jpg",
+        "MOMENT-SO-EU28-CAR-ETA-IT-v1-03.jpg",
+        "MOMENT-SO-EU28-CAR-ETA-IT-v1-04.jpg",
+        "MOMENT-SO-EU28-CAR-ETA-IT-v1-05.jpg"
+      ],
+      "cdn": [
+        "https://cdn.jsdelivr.net/gh/userfrensh33-afk/nannedolci-assets@master/ads/it-vague-2026-10-09/MOMENT-SO-EU28-CAR-ETA-IT-v1-01.jpg",
+        "https://cdn.jsdelivr.net/gh/userfrensh33-afk/nannedolci-assets@master/ads/it-vague-2026-10-09/MOMENT-SO-EU28-CAR-ETA-IT-v1-02.jpg",
+        "https://cdn.jsdelivr.net/gh/userfrensh33-afk/nannedolci-assets@master/ads/it-vague-2026-10-09/MOMENT-SO-EU28-CAR-ETA-IT-v1-03.jpg",
+        "https://cdn.jsdelivr.net/gh/userfrensh33-afk/nannedolci-assets@master/ads/it-vague-2026-10-09/MOMENT-SO-EU28-CAR-ETA-IT-v1-04.jpg",
+        "https://cdn.jsdelivr.net/gh/userfrensh33-afk/nannedolci-assets@master/ads/it-vague-2026-10-09/MOMENT-SO-EU28-CAR-ETA-IT-v1-05.jpg"
+      ],
+      "cards": [
+        {
+          "top": "A 4 mesi dormiva bene. In una settimana è crollato tutto.",
+          "bottom": "« È la regressione, passerà. »"
+        },
+        {
+          "top": "Non è passata.",
+          "bottom": "Tre mesi dopo, sempre uguale."
+        },
+        {
+          "top": "Verso i 4 mesi il sonno si riorganizza per sempre.",
+          "bottom": "Quello che lo addormentava prima non basta più tra un ciclo e l'altro."
+        },
+        {
+          "top": "Non è una regressione. È il momento in cui tutto inizia a contare.",
+          "bottom": "Quattro notti dopo, dormiva di fila da solo."
+        },
+        {
+          "top": "2 minuti per capire a che punto è.",
+          "bottom": "Il test è gratuito."
+        }
+      ],
+      "primary_text": "A 4 mesi dormiva bene. E in una settimana è crollato tutto.\n\nMi hanno detto « è la regressione dei 4 mesi, passerà ». Non è passata.\n\nVerso i 4 mesi il sonno di un bambino si riorganizza per sempre: inizia a concatenare i cicli come un adulto. Quello che lo addormentava fino a quel momento non basta più tra un ciclo e l'altro.\n\nNon è una regressione. È il momento in cui quello che si è installato inizia a contare.\n\nAbbiamo ripreso in mano proprio quel passaggio. Quattro notti dopo, dormiva di fila da solo. Senza mai lasciarlo piangere.\n\n14 notti con la scheda di monitoraggio. Se non cambia nulla, rimborso entro 30 giorni.\n\nIl test è gratuito e dura 2 minuti 👇\nhttps://www.nannedolci.it/quizz?utm_source=meta&utm_campaign=it-test-creas&utm_content=MOMENT-SO-EU28-CAR-ETA-IT-v1",
+      "headline": "A 4 mesi non è una regressione",
+      "description": "Test gratuito di 2 minuti",
+      "link": "https://www.nannedolci.it/quizz?utm_source=meta&utm_campaign=it-test-creas&utm_content=MOMENT-SO-EU28-CAR-ETA-IT-v1",
+      "cta": "Scopri di più",
+      "source_winner": "CARR-C08-AGE-4MOIS (FR)"
+    },
+    {
+      "name": "TRANSFO-SO-EU28-CAR-CIRCOLO-IT-v1",
+      "format": "CAR",
+      "files": [
+        "TRANSFO-SO-EU28-CAR-CIRCOLO-IT-v1-01.jpg",
+        "TRANSFO-SO-EU28-CAR-CIRCOLO-IT-v1-02.jpg",
+        "TRANSFO-SO-EU28-CAR-CIRCOLO-IT-v1-03.jpg",
+        "TRANSFO-SO-EU28-CAR-CIRCOLO-IT-v1-04.jpg",
+        "TRANSFO-SO-EU28-CAR-CIRCOLO-IT-v1-05.jpg"
+      ],
+      "cdn": [
+        "https://cdn.jsdelivr.net/gh/userfrensh33-afk/nannedolci-assets@master/ads/it-vague-2026-10-09/TRANSFO-SO-EU28-CAR-CIRCOLO-IT-v1-01.jpg",
+        "https://cdn.jsdelivr.net/gh/userfrensh33-afk/nannedolci-assets@master/ads/it-vague-2026-10-09/TRANSFO-SO-EU28-CAR-CIRCOLO-IT-v1-02.jpg",
+        "https://cdn.jsdelivr.net/gh/userfrensh33-afk/nannedolci-assets@master/ads/it-vague-2026-10-09/TRANSFO-SO-EU28-CAR-CIRCOLO-IT-v1-03.jpg",
+        "https://cdn.jsdelivr.net/gh/userfrensh33-afk/nannedolci-assets@master/ads/it-vague-2026-10-09/TRANSFO-SO-EU28-CAR-CIRCOLO-IT-v1-04.jpg",
+        "https://cdn.jsdelivr.net/gh/userfrensh33-afk/nannedolci-assets@master/ads/it-vague-2026-10-09/TRANSFO-SO-EU28-CAR-CIRCOLO-IT-v1-05.jpg"
+      ],
+      "cards": [
+        {
+          "top": "Da risvegli ogni 2 ore a più di 10 ore di fila.",
+          "bottom": "A cambiare non è stato il bambino."
+        },
+        {
+          "top": "Abbiamo dato la colpa alla fame. Poi ai dentini.",
+          "bottom": "Non era né l'una né gli altri."
+        },
+        {
+          "top": "A ogni fine di ciclo, controlla che quello che l'ha addormentato ci sia ancora.",
+          "bottom": "È il Circolo dei Risvegli."
+        },
+        {
+          "top": "Settima notte: più di 10 ore di fila.",
+          "bottom": "Senza mai lasciarlo piangere."
+        },
+        {
+          "top": "2 minuti per capire cosa lo sveglia davvero.",
+          "bottom": "Il test è gratuito."
+        }
+      ],
+      "primary_text": "Da risvegli ogni 2 ore a più di 10 ore di fila nel suo lettino. A cambiare non è stato il bambino.\n\nPer mesi ho dato la colpa alla fame. Poi ai dentini. Poi al caldo, alla luce, ai rumori del palazzo. Non era niente di tutto questo.\n\nA ogni fine di ciclo, controlla che quello che l'ha addormentato ci sia ancora: è il Circolo dei Risvegli. Finché il circolo resta in piedi, nessun miglioramento regge più di due notti. È per questo che i consigli presi qua e là duravano un weekend.\n\nUna volta capita la causa, l'abbiamo corretta con dolcezza, un piccolo passo a notte. Senza mai lasciarlo piangere, senza porta chiusa.\n\nSettima notte: più di 10 ore di fila. E io ho ricominciato a dormire.\n\n14 notti con la scheda di monitoraggio. Se non cambia nulla, rimborso entro 30 giorni.\n\nIl test è gratuito e dura 2 minuti: dice cosa lo sveglia davvero e da dove iniziare stasera 👇\nhttps://www.nannedolci.it/quizz?utm_source=meta&utm_campaign=it-test-creas&utm_content=TRANSFO-SO-EU28-CAR-CIRCOLO-IT-v1",
+      "headline": "Perché si sveglia ogni 2 ore?",
+      "description": "Test gratuito di 2 minuti",
+      "link": "https://www.nannedolci.it/quizz?utm_source=meta&utm_campaign=it-test-creas&utm_content=TRANSFO-SO-EU28-CAR-CIRCOLO-IT-v1",
+      "cta": "Scopri di più",
+      "source_winner": "TRANSFO-SO-EU28-CARD-10ORE-IT-v1 (jumelle, mecanisme nomme)"
+    }
+  ]
+}
