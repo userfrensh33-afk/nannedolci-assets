@@ -2,7 +2,7 @@
 
 Règle 80/20 : 7 déclinaisons des gagnantes + 1 jumelle « mécanisme nommé ».
 Récit 1re personne, aucun « tu / tuo / sei » adressé à la lectrice (cartes ET texte principal). Pas de tiret long.
-Persona : Chiara | Nanne Dolci. CTA bouton : Scopri di più. Format cartes : 1080x1350, texte dans la zone sûre 16,5 % / 83,5 %.
+Persona : Chiara | Nanne Dolci. CTA bouton : Scopri di più. Format cartes : 1080x1350, texte dans la zone sûre 16,5 % / 83,5 %. Toutes les images sont NEUVES (image-to-image Seedream depuis les rushs des gagnantes, méthode generation-images-declinaison-ia), aucune photo déjà diffusée ; v0 avec les photos d'origine archivée dans `_v0-photos-origine/`.
 Garantie : « 14 notti con la scheda di monitoraggio. Se non cambia nulla, rimborso entro 30 giorni. »
 Mécanisme : « associazione del sonno » n'apparaît dans aucune des 7 déclinaisons ; seule la pub 8 nomme « il Circolo dei Risvegli ».
 
@@ -19,7 +19,7 @@ Gagnantes d'origine (retrouvées en local) :
 
 ## 1. `TRANSFO-SO-EU28-CAR-10ORE-IT-v2` (déclinaison de TRANSFO-SO-EU28-CARD-10ORE-IT-v1, axe changé : ACCROCHE carte 1, heures précises)
 
-Fichiers : `TRANSFO-SO-EU28-CAR-10ORE-IT-v2-01.jpg … -05.jpg` (mêmes 5 photos que la gagnante).
+Fichiers : `TRANSFO-SO-EU28-CAR-10ORE-IT-v2-01.jpg … -05.jpg` (5 images neuves, image-to-image depuis les 5 frames du rush tina de la gagnante : `raw/decl-2026-10-09/tinaA--pres-b, tete-a, dessus-b, pres-c, large-b`, jeu partagé par les 4 TRANSFO).
 Lien : https://www.nannedolci.it/quizz?utm_source=meta&utm_campaign=it-test-creas&utm_content=TRANSFO-SO-EU28-CAR-10ORE-IT-v2
 
 | # | Haut | Bas |
@@ -52,7 +52,7 @@ https://www.nannedolci.it/quizz?utm_source=meta&utm_campaign=it-test-creas&utm_c
 
 ## 2. `TRANSFO-SO-EU28-CAR-10ORE-IT-v3` (déclinaison de TRANSFO-SO-EU28-CARD-10ORE-IT-v1, axe changé : NARRATRICE, une maman nommée raconte dans le texte principal ; cartes identiques à la gagnante)
 
-Fichiers : `TRANSFO-SO-EU28-CAR-10ORE-IT-v3-01.jpg … -05.jpg` (cartes = textes de la gagnante, mêmes photos, remises dans la zone sûre).
+Fichiers : `TRANSFO-SO-EU28-CAR-10ORE-IT-v3-01.jpg … -05.jpg` (cartes = textes de la gagnante, même jeu d'images neuves que la v2).
 Lien : https://www.nannedolci.it/quizz?utm_source=meta&utm_campaign=it-test-creas&utm_content=TRANSFO-SO-EU28-CAR-10ORE-IT-v3
 
 | # | Haut | Bas |
@@ -85,7 +85,7 @@ https://www.nannedolci.it/quizz?utm_source=meta&utm_campaign=it-test-creas&utm_c
 
 ## 3. `TRANSFO-SO-EU28-CAR-10ORE-IT-v4` (déclinaison de TRANSFO-SO-EU28-CARD-10ORE-IT-v1, axe changé : DÉTAIL de la transformation, carte 4 donne les heures)
 
-Fichiers : `TRANSFO-SO-EU28-CAR-10ORE-IT-v4-01.jpg … -05.jpg` (mêmes 5 photos que la gagnante).
+Fichiers : `TRANSFO-SO-EU28-CAR-10ORE-IT-v4-01.jpg … -05.jpg` (même jeu d'images neuves que la v2).
 Lien : https://www.nannedolci.it/quizz?utm_source=meta&utm_campaign=it-test-creas&utm_content=TRANSFO-SO-EU28-CAR-10ORE-IT-v4
 
 | # | Haut | Bas |
@@ -104,7 +104,7 @@ Lien : https://www.nannedolci.it/quizz?utm_source=meta&utm_campaign=it-test-crea
 
 ## 4. `CONFESSION-SO-POITRINE-CAR-CAUSE-IT-v2` (déclinaison de CONFESSION-SO-POITRINE-CARD-CAUSE-IT-v1, axe changé : ACCROCHE carte 1, la liste de ce qu'on a essayé)
 
-Fichiers : `CONFESSION-SO-POITRINE-CAR-CAUSE-IT-v2-01.jpg … -05.jpg` (même photo que la gagnante, répétée, cadrage identique).
+Fichiers : `CONFESSION-SO-POITRINE-CAR-CAUSE-IT-v2-01.jpg … -05.jpg` (5 images neuves, image-to-image depuis le rush capture-04 : `raw/decl-2026-10-09/poitrine--pres-a, regard-a, profil-c, dort-b, large-b`, jeu partagé avec la v3).
 Lien : https://www.nannedolci.it/quizz?utm_source=meta&utm_campaign=it-test-creas&utm_content=CONFESSION-SO-POITRINE-CAR-CAUSE-IT-v2
 
 | # | Haut | Bas |
@@ -137,7 +137,7 @@ https://www.nannedolci.it/quizz?utm_source=meta&utm_campaign=it-test-creas&utm_c
 
 ## 5. `CONFESSION-SO-POITRINE-CAR-CAUSE-IT-v3` (déclinaison de CONFESSION-SO-POITRINE-CARD-CAUSE-IT-v1, axe changé : VISUEL, 5 angles du même rush au lieu d'une photo répétée)
 
-Fichiers : `CONFESSION-SO-POITRINE-CAR-CAUSE-IT-v3-01.jpg … -05.jpg` (carte 1 = photo d'origine, cartes 2 à 5 = déclinaisons image-to-image du même rush, `raw/decl-2026-10-09/poitrine--*.jpg`, contrôle checkimg passé).
+Fichiers : `CONFESSION-SO-POITRINE-CAR-CAUSE-IT-v3-01.jpg … -05.jpg` (textes de la gagnante, même jeu d'images neuves que la v2 : la variable testée face à la gagnante en ligne est le visuel).
 Lien : https://www.nannedolci.it/quizz?utm_source=meta&utm_campaign=it-test-creas&utm_content=CONFESSION-SO-POITRINE-CAR-CAUSE-IT-v3
 
 | # | Haut | Bas |
@@ -156,7 +156,7 @@ Lien : https://www.nannedolci.it/quizz?utm_source=meta&utm_campaign=it-test-crea
 
 ## 6. `MOMENT-SO-EU28-CAR-ORARIO-IT-v1` (adaptation italienne de CARR-C03-HEURE-4H30, « le 4 e mezza »)
 
-Fichiers : `MOMENT-SO-EU28-CAR-ORARIO-IT-v1-01.jpg … -05.jpg` (mêmes 5 photos que le FR et le UK : `broad-tina-13.3--large/matin/moment/pres/profil-a.jpg`).
+Fichiers : `MOMENT-SO-EU28-CAR-ORARIO-IT-v1-01.jpg … -05.jpg` (5 images neuves depuis la frame 13.3 du rush tina, comme le FR : `raw/decl-2026-10-09/c03--pres-c, profil-c, pres-a, moment-b, large-a`).
 Lien : https://www.nannedolci.it/quizz?utm_source=meta&utm_campaign=it-test-creas&utm_content=MOMENT-SO-EU28-CAR-ORARIO-IT-v1
 
 | # | Haut | Bas |
@@ -191,7 +191,7 @@ https://www.nannedolci.it/quizz?utm_source=meta&utm_campaign=it-test-creas&utm_c
 
 ## 7. `MOMENT-SO-EU28-CAR-ETA-IT-v1` (adaptation italienne de CARR-C08-AGE-4MOIS, « 4 mesi »)
 
-Fichiers : `MOMENT-SO-EU28-CAR-ETA-IT-v1-01.jpg … -05.jpg` (mêmes 5 photos que le FR et le UK : `broad-tina-7--recul/tete/yeux-a.jpg`, `broad-tina-9.5--dessus/etire-a.jpg`).
+Fichiers : `MOMENT-SO-EU28-CAR-ETA-IT-v1-01.jpg … -05.jpg` (5 images neuves depuis les frames 7 et 9.5 du rush tina, comme le FR : `raw/decl-2026-10-09/c08--yeux-a, tete-b, dessus-b, etire-a, recul-c`).
 Lien : https://www.nannedolci.it/quizz?utm_source=meta&utm_campaign=it-test-creas&utm_content=MOMENT-SO-EU28-CAR-ETA-IT-v1
 
 | # | Haut | Bas |
@@ -224,7 +224,7 @@ https://www.nannedolci.it/quizz?utm_source=meta&utm_campaign=it-test-creas&utm_c
 
 ## 8. `TRANSFO-SO-EU28-CAR-CIRCOLO-IT-v1` (jumelle « mécanisme nommé » de TRANSFO-SO-EU28-CARD-10ORE-IT-v1 : mêmes photos, mêmes cartes, seule la carte 3 et la phrase de la cause changent)
 
-Fichiers : `TRANSFO-SO-EU28-CAR-CIRCOLO-IT-v1-01.jpg … -05.jpg`.
+Fichiers : `TRANSFO-SO-EU28-CAR-CIRCOLO-IT-v1-01.jpg … -05.jpg` (même jeu d'images neuves que les 3 TRANSFO).
 Lien : https://www.nannedolci.it/quizz?utm_source=meta&utm_campaign=it-test-creas&utm_content=TRANSFO-SO-EU28-CAR-CIRCOLO-IT-v1
 
 | # | Haut | Bas |
